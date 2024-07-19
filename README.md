@@ -9,6 +9,9 @@ Welcome to the **Twitter Clone** project! This is a simple Twitter-like web appl
 - **Tailwind CSS**: Utilizes Tailwind CSS for responsive and utility-first styling.
 - **JavaScript**: Implements interactive features such as toggling follow buttons, showing/hiding elements on input focus, and more.
 
+## Screenshots
+
+![Twitter Clone Screenshot](Screenshot 2024-07-19 200759.png)
 
 
 
