@@ -11,7 +11,7 @@ Welcome to the **Twitter Clone** project! This is a simple Twitter-like web appl
 
 ## Screenshots
 
-![Twitter Clone Screenshot]((https://github.com/VineshRajkumar/Twitter-Clone/blob/6c40768bf09f15c67bbbf1bb84eae6f84f55357d/Screenshot%202024-07-19%20200759.png))
+![Twitter Clone Screenshot](https://github.com/VineshRajkumar/Twitter-Clone/blob/6c40768bf09f15c67bbbf1bb84eae6f84f55357d/Screenshot%202024-07-19%20200759.png)
 
 
 
