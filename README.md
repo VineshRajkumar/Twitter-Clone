@@ -11,7 +11,7 @@ Welcome to the **Twitter Clone** project! This is a simple Twitter-like web appl
 
 ## Screenshots
 
-![Twitter Clone Screenshot](Screenshot 2024-07-19 200759.png)
+![Twitter Clone Screenshot](Twitter-Clone/Screenshot2024-07-19200759.png)
 
 
 
