@@ -9,7 +9,7 @@
     "build": "npm run build:css && vite build",
     "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
