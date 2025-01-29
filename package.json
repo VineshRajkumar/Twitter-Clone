@@ -1,11 +1,14 @@
 {
+  "homepage": "https://VineshRajkumar.github.io/Twitter-Clone",
   "name": "twitter-clone",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch",
-    "dev": "vite"
+    "dev": "vite",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
@@ -13,11 +16,11 @@
   "description": "",
   "devDependencies": {
     "autoprefixer": "^10.4.19",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.4"
   },
   "dependencies": {
     "vite": "^5.3.1"
-    
   }
 }
